@@ -71,8 +71,3 @@ streamlit run app.py
 
 - Provided interpretable insights for educators to take timely action.
 --------------------------------
-This project is proprietary and confidential. Unauthorized copying, modification, distribution, or use of any part of this codebase is strictly prohibited without express written permission from the author.
-
-You may view the code for educational purposes only. Commercial use, redistribution, or publication is not allowed.
-
-Contact the me for collaboration or licensing inquiries.
